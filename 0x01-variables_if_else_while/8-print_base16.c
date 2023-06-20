@@ -13,7 +13,6 @@ int main(void)
 	for (n = 48; n < 58; n++)
 	{
 		putchar(n);
-		if (n != 57)
 	}
 	for (ch = 'a'; ch <= 'f'; ch++)
 	{
